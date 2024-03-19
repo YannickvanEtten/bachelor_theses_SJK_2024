@@ -1,21 +1,19 @@
-# Test project
-The aim for this file is to become a template for future project. So everything is ready for all new projects coming year.
-I hope this will improve the work and make it possible to simultaneously work on the code.
-There are python files were people can work on the code. If everything is done, these can be added to the Jupiter file with more explanation.
-The rest of this readme file contains examples on how to design future readmes, inspired by the ones created by *The Economist*'s github page.
+# Bachelor Theses
+Welcome! This page will contain information and code for the bachelor theses under supervision of Prof. dr. Siem Jan Koopman. The subject of these theses are GARCH and GAS models. The possible literature list is:
 
 
 
-## Getting started
+## Important dates
+In the next few months, several dates are of important:
 
-Before finalizing the jupyter noteboook, please make use the python scripts are finished, seen in [this file](https://github.com/YannickvanEtten/test_project/blob/d783b368ecf9c11b1b1c41d0dc0d7426cc7a8513/main.py).
-To install it, first install the devtools package:
 
-```r
-install.packages('devtools')
-```
-(This is just how to add a R space in a markdown)
+These dates could be subject to small changes. If so this will be communicated.
 
-## Conclusion
-In the following graph, we note a ... trend.
-![Chart of .....](Density_Plot.png)  
+## Question hours
+Anouk Appel and Yannick van Etten will hold question hours twice a week. On Tuesday and Wednesday from 10.00 till 15.00 slots of 30 minutes are available to book on:
+
+## Contact
+Prof. dr. Siem Jan Koopman
+Anouk Appel
+Yannick van Etten
+
