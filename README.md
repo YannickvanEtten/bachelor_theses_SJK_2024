@@ -16,7 +16,7 @@ Welcome! This page will contain information and code for the bachelor theses und
 | GAS models                           | Creal, D.D., Koopman, S.J. & Lucas, A. (2013). Generalized Autoregressive Score Models with Applications, Journal of Applied Econometrics 28(5), 777-795. |
 
 ## Code
-In the folders on this Github page there is a Python and R file containing starting code for GARCH models.
+In the folders on this Github page there is a Python containing starting code for GARCH models.
 
 ## Important dates
 In the next few months, several dates are of important:
