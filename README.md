@@ -20,14 +20,14 @@ In the folders on this Github page there is a Python containing starting code fo
 
 ## Important dates
 In the next few months, several dates are of important:
-- **I 19 March:** Kick-off meeting 17:00 in room 10A33
-- **I 1 April:** Supervision starts
-- **I 14 June:** Deadline delivery of poster presentation (summary)
-- **I 17 June:** Presentation
-- **I 28 June:** Supervision / office hours end
-- **I 15 July:** Deadline submission Bachelor thesis
-- **I 15-22 July:** Reading theses by supervisor and co-reader
-- **I 22-24 July:** Delivery of grades
+- ** 19 March:** Kick-off meeting 17:00 in room 10A33
+- ** 1 April:** Supervision starts
+- ** 14 June:** Deadline delivery of poster presentation (summary)
+- ** 17 June:** Presentation
+- ** 28 June:** Supervision / office hours end
+- ** 15 July:** Deadline submission Bachelor thesis
+- ** 15-22 July:** Reading theses by supervisor and co-reader
+- ** 22-24 July:** Delivery of grades
 
 These dates could be subject to small changes. If so this will be communicated.
 
