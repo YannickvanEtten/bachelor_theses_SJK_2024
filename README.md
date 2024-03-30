@@ -15,8 +15,9 @@ Welcome! This page will contain information and code for the bachelor theses und
 | Multivariate GARCH models             | Engle, R. (2002). Dynamic Conditional Correlation: a simple class of multivariate GARCH models. Journal of Business & Economic Statistics 20(3), 339‐350. |
 | GAS models                           | Creal, D.D., Koopman, S.J. & Lucas, A. (2013). Generalized Autoregressive Score Models with Applications, Journal of Applied Econometrics 28(5), 777-795. |
 
-## Code
-In the folders on this Github page there is a Python containing starting code for GARCH models.
+## General Information and Starting Code
+When starting with the thesis it could help to read t
+In [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/5a89c9a9ba76388744a882232c673856aa13a1c6/General%20GARCH%20Information) general information is found about GARCH and Multivariate GARCH models, provided by dr. Lennart Hoogerheide. A Python file containing starting code for GARCH models is available in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/5a89c9a9ba76388744a882232c673856aa13a1c6/Python%20code). Additional, there is a Python file concerning GARCH models with a Student-t distribution in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/5a89c9a9ba76388744a882232c673856aa13a1c6/Python%20code/GARCH%20Student-t).
 
 ## Important dates
 In the next few months, several dates are of important:
