@@ -32,8 +32,7 @@ In the next few months, several dates are of important:
 These dates could be subject to small changes. If so this will be communicated.
 
 ## Question hours
-Anouk Appel and Yannick van Etten will hold question hours twice a week. On Tuesdays and Wednesdays from 10.00 till 15.00 slots of 30 minutes each are available to book. If you are collaborating with someone, it is possible to book two consecutive appointments.
-[Appointment Link](https://docs.google.com/spreadsheets/d/1dEyoqaUAGKnumi-njcBvupdP6KrVuR1BiLH2CVqYHNs/edit?usp=sharing)
+Anouk Appel and Yannick van Etten will hold question hours twice a week. On Tuesdays and Wednesdays from 10.00 till 15.00 slots of 30 minutes each are available to book using this [Appointment Link](https://docs.google.com/spreadsheets/d/1dEyoqaUAGKnumi-njcBvupdP6KrVuR1BiLH2CVqYHNs/edit?usp=sharing). If you are collaborating with someone, it is possible to book two consecutive appointments.
 
 ## Contact
 - Prof. dr. Siem Jan Koopman:[s.j.koopman@vu.nl](mailto:s.j.koopman@vu.nl)
