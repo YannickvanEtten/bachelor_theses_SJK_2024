@@ -1,5 +1,5 @@
 # Bachelor Theses
-Welcome! This page will contain information and code for the bachelor theses under supervision of Prof. dr. Siem Jan Koopman. The topics of these theses are GARCH and GAS models. The possible literature list is seen in the table below. Most pdf files are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/5a73c1e8041e4861b474f7ee80dfdf4ba38a8dfe/Papers). Furthermore, two old theses are available [here]().
+Welcome! This page will contain information and code for the bachelor theses under supervision of Prof. dr. Siem Jan Koopman. The topics of these theses are GARCH and GAS models. The possible literature list is seen in the table below. Most pdf files are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/5a73c1e8041e4861b474f7ee80dfdf4ba38a8dfe/Papers). Furthermore, two old theses are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2024/tree/de9accd14f44e1e88c92c88daad6f74172797234/Old%20Theses).
 
 | Topic                               | Article                                                                                      |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
